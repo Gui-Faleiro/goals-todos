@@ -18,4 +18,4 @@ Nesta estrutura de diretórios, se quiséssemos importar todas ações para um c
    - Store
    
    
-   ![alt text](https://imgur.com/a/3vCPx5V)
+  ![alt text](https://i.imgur.com/rzgJ4hV.png)
