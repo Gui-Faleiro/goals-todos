@@ -18,4 +18,7 @@ Nesta estrutura de diretórios, se quiséssemos importar todas ações para um c
    - Store
    
    
+   
+   Logo a baixo tem a imagem da diferença entre  Estilo Rails e Estilo Duck.
+   
   ![alt text](https://i.imgur.com/rzgJ4hV.png)
