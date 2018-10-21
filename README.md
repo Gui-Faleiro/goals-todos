@@ -16,3 +16,6 @@ Nesta estrutura de diretórios, se quiséssemos importar todas ações para um c
       - reducer1.js
    - Util
    - Store
+   
+   
+   ![alt text](https://imgur.com/a/3vCPx5V)
