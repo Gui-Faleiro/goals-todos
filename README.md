@@ -19,6 +19,9 @@ Nesta estrutura de diretórios, se quiséssemos importar todas ações para um c
    
    
    
-   Logo a baixo tem a imagem da diferença entre  Estilo Rails e Estilo Duck.
+   Logo a baixo tem a imagem da diferença entre  Estilo Rails e Estilo Duck. 
+   
+   Imagem retirada do post [a link](https://medium.freecodecamp.org/scaling-your-redux-app-with-ducks-6115955638be) 
+   Nele comtém exemplo do estilo duck.
    
   ![alt text](https://i.imgur.com/rzgJ4hV.png)
